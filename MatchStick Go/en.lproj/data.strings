@@ -1,0 +1,12 @@
+/* 
+  data.strings
+  MatchStick Go
+
+  Created by NGUYỄN QUỐC ĐẠI LÂM on 2017/08/07.
+  Copyright © 2017 NGUYỄN QUỐC ĐẠI LÂM. All rights reserved.
+*/
+"problem1_vi" = "Di chuyển 1 que diêm để phép toán trở nên đúng";
+"problem2_vi" = "Di chuyển 2 que diêm để phép toán trở nên đúng";
+"problem1_en" = "Move 1 match to fix equation";
+"problem2_en" = "Move 1 match to fix equation";
+"a" = "b";

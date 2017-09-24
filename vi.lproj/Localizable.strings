@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  MatchStick Go
+
+  Created by NGUYỄN QUỐC ĐẠI LÂM on 2017/08/07.
+  Copyright © 2017 NGUYỄN QUỐC ĐẠI LÂM. All rights reserved.
+*/
+"problem1" = "Di chuyển 1 que diêm để phép toán đúng";
+"problem2" = "Di chuyển 2 que diêm để phép toán đúng";
+"time" = "Thời gian: ";
+"score" = "Điểm: ";
+"move" = "Di chuyển: ";
+"highscore" = "Điểm cao: ";
+"answer" = "Đáp án: ";
+"msg1" = "Hãy chia sẻ để xem đáp án!";
+"msg2" = "";
+"msg3" = "";
+"msg4" = "";

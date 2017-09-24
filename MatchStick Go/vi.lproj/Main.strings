@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "problem"; ObjectID = "D5m-yH-73b"; */
+"D5m-yH-73b.text" = "problem";
+
+/* Class = "UILabel"; text = "Xin chao"; ObjectID = "PsD-9d-SIy"; */
+"PsD-9d-SIy.text" = "Xin chao";
+
+/* Class = "UIButton"; normalTitle = "View result"; ObjectID = "QMh-Gb-lDO"; */
+"QMh-Gb-lDO.normalTitle" = "View result";
+
+/* Class = "UILabel"; text = "High Score"; ObjectID = "ZGr-hS-skG"; */
+"ZGr-hS-skG.text" = "High Score";
+
+/* Class = "UILabel"; text = "score"; ObjectID = "iWk-Ap-FDT"; */
+"iWk-Ap-FDT.text" = "score";
+
+/* Class = "UILabel"; text = "Move"; ObjectID = "k0q-cd-Nht"; */
+"k0q-cd-Nht.text" = "Move";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "nDq-lQ-kbS"; */
+"nDq-lQ-kbS.normalTitle" = "Đăng nhập";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "qQ0-bU-auC"; */
+"qQ0-bU-auC.normalTitle" = "Đăng xuất";
+
+/* Class = "UILabel"; text = "time"; ObjectID = "xln-OT-ryi"; */
+"xln-OT-ryi.text" = "time";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "yGR-U7-Qec"; */
+"yGR-U7-Qec.normalTitle" = "Đăng xuất";

@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  MatchStick Go
+
+  Created by NGUYỄN QUỐC ĐẠI LÂM on 2017/08/07.
+  Copyright © 2017 NGUYỄN QUỐC ĐẠI LÂM. All rights reserved.
+*/
+"problem1" = "マッチ棒を一つ変更しなさい";
+"problem2" = "マッチ棒を二つ変更しなさい";
+"time" = "時間：";
+"score" = "点数：";
+"move" = "変わった：";
+"highscore" = "高得点：";
+"answer" = "答：";
+"msg1" = "答えが見えるようにシェアして下さい！";
+"msg2" = "";
+"msg3" = "";
+"msg4" = "";
